@@ -124,9 +124,9 @@
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Machine%20Learning%20With%20Python%20for%20Beginner--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/169)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2ODOJPA/--!>)] Machine Learning With Python for Beginner
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Lea<!--rn/Python/Fundamental/Fundamental%20Data%20Visualization%20with%20Python--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/177)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC--!>)] Fundamental Data Visualization with Python
+- [[📂]()] [[🔍](https://academy.dqlab.id/main/package/practice/177)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1TUORIC--!>)] Fundamental Data Visualization with Python
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/--!>)] Data Manipulation with Pandas - Part 1
+- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%201--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/178)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1KCGLNG/--!>)] Data Manipulation with Pandas - Part 1
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Manipulation%20with%20Pandas%20-%20Part%202--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/252)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1FGMHKR/--!>)] Data Manipulation with Pandas - Part 2
 
@@ -391,7 +391,8 @@
 <p align="justify">
   Penulis dari artikel tutorial ini adalah Herry Pebbi Andra. Saat ini penulis bekerja sebagai karyawan swasta pada bagian IT Staff di daerah Cikarang- Bekasi. Selain itu, penulis juga gemar belajar bahasa pemrograman dan belajar tentang keamanan digital.
 
-  Harapan penulis dari adanya artikel tutorial ini adalah semakin banyak pemuda yang memiliki ide dan inovasi dibidang teknologi dan informasi di Indonesia dan memajukan dan membuat nama Indonesia dikenal dunia.
+  Harapan penulis dari adanya artikel tutorial ini adalah semakin banyak pemuda yang memiliki ide dan inovasi dibidang teknologi dan informasi di Indonesia dan memajukan dan membuat 
+ Indonesia dikenal dunia.
 
   "Banyak berlatih dan bertindaklah, jangan takut akan salah karena tidak akan tahu hasilnya jika tidak di coba" Quote by Herry.
 </p>
