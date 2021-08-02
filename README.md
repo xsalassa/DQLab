@@ -116,9 +116,9 @@
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OERWOT--!>)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1NTJMCJ--!>/)] Exploratory Data Analysis with Python for Beginner
+- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1CSJGLR/)] Exploratory Data Analysis with Python for Beginner
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL--!>/)] Data Visualization with Python Matplotlib for Beginner - Part 2
+- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%202--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/165)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1PEOLAL/--!>)] Data Visualization with Python Matplotlib for Beginner - Part 2
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Data%20Quality%20with%20Python%20for%20Beginner--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/166)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AUUCMW/--!>)] Data Quality with Python for Beginner
 
@@ -150,7 +150,7 @@
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Science%20Project%20Analisis%20Data%20COVID19%20di%20Dunia%20%26%20ASEAN--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/260)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1BAIQSQ/--!>)] Data Science Project: Analisis Data COVID19 di Dunia & ASEAN
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/--!>)] Data Analyst Project: Business Decision Research
+- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Data%20Analyst%20Project%20Business%20Decision%20Research--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/284)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABDVIZ2AEGGHH/--!>)] Data Analyst Project: Business Decision Research
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Applied%20Data%20Science/Eksplorasi%20dan%20Analisis%20Data%20COVID-19%20Indonesia%20using%20Python--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/287)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABACWP1OSMEUO/--!>)] Eksplorasi dan Analisis Data COVID-19 Indonesia using Python
 
@@ -250,7 +250,7 @@
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20Retail%20Sales%20Performance%20Report--!>)] [[🔍](https://academy.dqlab.id/main/package/project/182)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABPRJC4RTPCTH/--!>)] Project Data Analysis for Retail: Sales Performance Report
 
-- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report)--!>] [[🔍](https://academy.dqlab.id/main/package/project/246)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO--!>)] Project Data Analysis for B2B Retail: Customer Analytics Report
+- [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Project/SQL/Project%20Data%20Analysis%20for%20B2B%20Retail%20Customer%20Analytics%20Report--!>)] [[🔍](https://academy.dqlab.id/main/package/project/246)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABPRJ10BTTRKO--!>)] Project Data Analysis for B2B Retail: Customer Analytics Report
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Project/SQL/Data%20Analysis%20for%20E-Commerce%20Challenge--!>)] [[🔍](https://academy.dqlab.id/main/package/project/261)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABSQLT2NBEATA/)] Data Analysis for E-Commerce Challenge
 
