@@ -114,7 +114,7 @@
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Python%20for%20Data%20Professional%20Beginner%20-%20Part%203--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/161)] [[📃](<!--https://academy.dqlab.id/certificate/pdf/DQLABINTP1GMBOKW/--!>)] Python for Data Professional Beginner - Part 3
 
-- [[📂](https://github.com/xsalassa/DQLab/blob/main/Learn/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201.ipynb)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1JRCAHC)] Data Visualization with Python Matplotlib for Beginner - Part 1
+- [[📂](https://github.com/xsalassa/DQLab/blob/main/Learn/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201/Data%20Visualization%20with%20Python%20Matplotlib%20for%20Beginner%20-%20Part%201.ipynb)] [[🔍](https://academy.dqlab.id/main/package/practice/164)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABDTWP1OCMSSC/)] Data Visualization with Python Matplotlib for Beginner - Part 1
 
 - [[📂](<!--https://github.com/MyArist/DQLab/tree/master/Learn/Python/Fundamental/Exploratory%20Data%20Analysis%20with%20Python%20for%20Beginner--!>)] [[🔍](https://academy.dqlab.id/main/package/practice/163)] [[📃](https://academy.dqlab.id/certificate/pdf/DQLABINTP1CSJGLR/)] Exploratory Data Analysis with Python for Beginner
 
